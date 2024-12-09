@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TeamGPS Suite">
+    <test name="Login Tests">
+        <classes>
+            <class name="com.teamgps.tests.LoginTest"/>
+            <class name="com.teamgps.tests.EndToEndCheck"/>
+        </classes>
+    </test>
+</suite>
